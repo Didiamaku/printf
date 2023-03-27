@@ -1,6 +1,6 @@
 # Printf
 
-This is a custom implementation of the standard C library function `printf()` by Didi and Precious using the C programming language. It is a simplified version of the original `printf()` function, which allows users to print formatted strings to the console.
+This is a custom implementation of the standard C library function `printf()` by Didi and Precious Ejims using the C programming language. It is a simplified version of the original `printf()` function, which allows users to print formatted strings to the console.
 
 ## Getting Started
 
