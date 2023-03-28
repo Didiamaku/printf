@@ -2,7 +2,7 @@
 
 /**
  * get_flags - Calculates the active flags
- * by Didi and Precious
+ * by Didi and Precious Ejims
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:
