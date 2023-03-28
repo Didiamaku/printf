@@ -2,7 +2,7 @@
 
 /**
  * get_size - Calculates the size to cast the argument
- * by Didi and Precious
+ * by Didi and Precious Ejims
  * @format: Formatted string in which to print the arguments
  * @i: List of all arguments to be printed.
  *
